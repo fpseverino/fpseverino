@@ -2,7 +2,7 @@
 - 👀 I’m interested in cinema, music, politics and tech
 - 🌱 I’m currently learning C and Swift
 - 💞️ I’m looking to collaborate on iOS apps
-- 📫 How to reach me: fpseverino.com
+- 📫 How to reach me: [fpseverino.com](https://fpseverino.com)
 
 <!---
 fp-severino/fp-severino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
