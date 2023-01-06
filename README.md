@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fp-severino
-- 👀 I’m interested in cinema, music, politics and tech
+- 👀 I’m interested in cinema, music and tech
 - 🌱 I’m currently learning C and Swift
 - 💞️ I’m looking to collaborate on iOS apps
 - 📫 How to reach me: [fpseverino.com](https://fpseverino.com)
