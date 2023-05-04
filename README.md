@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fpseverino
-- 👀 I’m interested in cinema, music and tech
-- 🌱 I’m currently learning C and Swift
-- 💞️ I’m looking to collaborate on iOS apps
+- 👀 I’m interested in cinema, music, games and tech
+- 🌱 I’m currently learning C, Java, SQL and Swift
+- 💞️ I’m looking to collaborate on iOS apps and other projects
 - 📫 How to reach me: [fpseverino.com](https://fpseverino.com)
 
 <!---
